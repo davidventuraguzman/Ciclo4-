@@ -8,7 +8,6 @@ package Negocio;
  *
  * @author LENOVO
  */
-import java.util.ArrayList;
 public class Usuario {
     private String id;
     private String nombre;
