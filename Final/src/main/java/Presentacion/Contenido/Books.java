@@ -5,7 +5,6 @@ import Conexion.*;
 import java.awt.Color;
 import javax.swing.table.DefaultTableModel;
 import Presentacion.Menu;
-import Datos.Biblioteca;
 import Negocio.*;
 import java.util.List;
 import javax.swing.JOptionPane;

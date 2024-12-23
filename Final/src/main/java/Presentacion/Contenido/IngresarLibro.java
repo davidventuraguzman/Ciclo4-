@@ -8,7 +8,6 @@ package Presentacion.Contenido;
 
 import Negocio.Libro;
 import Negocio.Libro;
-import Datos.Biblioteca;
 import Negocio.Documento;
 import Negocio.Revista;
 import javax.swing.JOptionPane;

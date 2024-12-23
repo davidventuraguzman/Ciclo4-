@@ -1,7 +1,5 @@
 
 package Presentacion.Contenido;
-
-import Datos.Biblioteca;
 import java.awt.Color;
 import javax.swing.JOptionPane;
 import Conexion.*;

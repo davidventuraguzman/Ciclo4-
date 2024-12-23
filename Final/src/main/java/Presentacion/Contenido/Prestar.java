@@ -4,7 +4,6 @@ package Presentacion.Contenido;
 import Conexion.DocumentosRepertorio;
 import Conexion.PrestamosRepertorio;
 import Conexion.UsuarioRepertorio;
-import Datos.Biblioteca;
 import java.awt.Color;
 import java.awt.event.ActionListener;
 import javax.swing.Action;
