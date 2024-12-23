@@ -15,7 +15,6 @@ import javax.swing.JOptionPane;
  * @author LENOVO
  */
 public class IngresarUser extends javax.swing.JPanel {
-   Biblioteca bi;
    UsuarioRepertorio usuariorepertorio=new UsuarioRepertorio();
    boolean isEdition = false;
    Negocio.Usuario EditarUser; 
@@ -25,7 +24,7 @@ public class IngresarUser extends javax.swing.JPanel {
      */
     public IngresarUser() {
         initComponents();
-        bi=this.bi;
+
     }
 
     public IngresarUser(String id,Usuario user) {
